@@ -7,7 +7,7 @@
 ### I majorly use
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,fastapi,raspberrypi,git,linux,bash,mongodb,postgres,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,fastapi,tensorflow,pytorch,arduino,raspberrypi,git,linux,bash,mongodb,postgres)](https://skillicons.dev)
 
 <hr>
 
