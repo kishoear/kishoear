@@ -1,12 +1,8 @@
 ## H3ell0 w0rld!
 
-### This is kishore, i like to program computing machines.
+### This is kishore, i like to design algorithms for computing machines.
 
-#### Currently exploring
-
-1. Mathematics & Algorithms
-2. Backend development
-3. Linux & Computer Networks
+#### Currently exploring the areas of Mathematics, Artificial Intelligence & Linux Systems. Open to colabrate with devs to make something interesting!
 
 ### I majorly use
 <hr>
